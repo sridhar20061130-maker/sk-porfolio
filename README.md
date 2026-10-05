@@ -68,3 +68,7 @@ The portfolio uses the supplied resume/certificate information, including:
 - National Financial Literacy Quiz 2026 participation
 - Online Management Talent Test participation
 - Contact details shown in the supplied resume
+
+
+## Profile photo
+Your uploaded portrait is saved as `assets/profile-photo.jpeg` and displayed in the hero profile card. Keep this image inside the `assets` folder when uploading to GitHub or deploying to Vercel.
